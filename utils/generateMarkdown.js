@@ -1,6 +1,9 @@
 // function to generate markdown for README
 function generateMarkdown(data) {
-  return `# ${data.title}
+  return `
+  ![license](https://img.shields.io/badge/license-${data.license}-red)
+
+  # ${data.title}
 
   ## Description
 
@@ -26,12 +29,6 @@ ${data.usage}
 
 This project is licensed under the ${data.license} License
 
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
 ## How to Contribute
 
 ${data.contributing}
@@ -39,6 +36,14 @@ ${data.contributing}
 ## Tests
 
 ${data.test}
+
+## Questions
+
+If you have any questions about the project, please feel free to contact me through the following:
+
+[My GitHub profile](https://github.com/${data.gitHub_username})
+
+[Email address](mailto:${data.email})
 
 `;
 }
