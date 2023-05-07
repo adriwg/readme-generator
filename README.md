@@ -2,7 +2,7 @@
 
 ## Description
 
-The Readme Generator is a command-line application designed to simplify the creation of professional README.md file. It allows users to provide input, such as the project title, project description, installation instructions, usage guidelines, and license details. Based on this input, the application dynamically generates a comprehensive README.md file which is located at <b>generated \_readme</b> directory.
+The Readme Generator is a command-line application designed to simplify the creation of professional README.md file. It allows users to provide input, such as the project title, project description, installation instructions, usage guidelines, and license details. Based on this input, the application dynamically generates a comprehensive [README.md](https://github.com/adriwg/readme-generator/tree/main/generated_readme) file which is located at <b>generated \_readme</b> directory.
 
 ## Installation
 
