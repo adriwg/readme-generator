@@ -2,28 +2,25 @@
 
 ## Description
 
-The Readme Generator is a command-line application designed to simplify the creation of professional README.md file. It allows users to provide input, such as the project title, project description, installation instructions, usage guidelines, and license details. Based on this input, the application dynamically generates a comprehensive README.md file  
-[Sample of the generated README file](https://adriwg.github.io/readme-generator/generated_readme/README.md)
+The Readme Generator is a command-line application designed to simplify the creation of professional README.md file. It allows users to provide input, such as the project title, project description, installation instructions, usage guidelines, and license details. Based on this input, the application dynamically generates a comprehensive README.md file which is located at <b>generated \_readme</b> directory.
 
 ## Installation
 
-To properly install and run the application, it is necessary to have the inquirer module installed. Follow these steps to ensure a successful installation:
+To run the application smoothly, it is necessary to have the <b>inquirer</b> module installed. Follow these steps to ensure a successful installation:
 
 - Open the terminal in VSCode.
-- Run the command npm install to install the required inquirer module.
-
-By following these instructions, you will have the necessary dependencies installed, allowing the application to run smoothly.
+- Run the command <b>npm install</b>.
 
 ## Usage
 
 To utilize the application effectively, adhere to the following instructions:
 
 - Open the left-side Explorer panel in VSCode.
-- Locate index.js and right-click on it. From the quick menu, select "Open in integrated terminal."
-- Execute the command node index.js in the integrated terminal.
+- Locate <b>index.js</b> and right-click on it. From the quick menu, select "<b>Open in integrated terminal</b>".
+- Execute the command <b>node index.js</b> in the integrated terminal.
 - Respond to the prompted questions accordingly.
-- Upon answering all the questions, a "Success!" message will be displayed.
-- A README.md file will be generated and saved in the "generated_readme" directory.
+- Upon answering all the questions, a "<b>Success!</b>" message will be displayed.
+- A README.md file will be generated and saved in the "<b>generated_readme</b>" directory.
 
 ## Credits
 

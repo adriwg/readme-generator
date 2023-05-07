@@ -1,11 +1,11 @@
 
   ![license](https://img.shields.io/badge/license-MIT-red)
 
-  # <span style="text-transform: capitalize;">test</span>
+  # <span style="text-transform: capitalize;">My To Do List</span>
 
   ## Description
 
-test
+My To Do List is a simple web application that allows users to track their daily tasks.
 <p>&nbsp;</p>
 
 ## Table of Contents
@@ -13,19 +13,19 @@ test
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [How to Contribute](#how-to-contribute)
+- [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
 <p>&nbsp;</p>
 
 ## Installation
 
-test
+To install the project, simply clone the repository, open the project in the VSCode and run “npm install” in the integrated terminal.
 <p>&nbsp;</p>
 
 ## Usage
 
-test
+To use the application, run “npm start” in the terminal, open the web browser and navigate to http://localhost:3000
 <p>&nbsp;</p>
 
 ## License
@@ -33,22 +33,22 @@ test
 This project is licensed under the MIT License
 <p>&nbsp;</p>
 
-## How to Contribute
+## Contributing
 
-test
+To contribute to this project, simply fork the repository and submit a pull request with your changes.
 <p>&nbsp;</p>
 
 ## Tests
 
-test
+To run tests, run “npm test” in the terminal,
 <p>&nbsp;</p>
 
 
 ## Questions
 
-[My GitHub profile](https://github.com/test)  
+[My GitHub profile](https://github.com/adriwg)  
 
 If you have any questions about the project, please feel free to contact me by the following email:
 
-[test](mailto:test)  
+[adrianwg04@gmail.com](mailto:adrianwg04@gmail.com)  
 
