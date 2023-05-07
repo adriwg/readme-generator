@@ -1,5 +1,4 @@
 const fs = require("fs");
-const path = require('path');
 const inquirer = require("inquirer");
 const generateMarkdown = require("./utils/generateMarkdown");
 
@@ -17,7 +16,7 @@ const questions = [{
     {
         type: 'input',
         name: 'installation',
-        message: 'What is the description of the project?'
+        message: 'How to install the application?'
     },
     {
         type: 'input',
@@ -53,7 +52,7 @@ const questions = [{
     {
         type: 'input',
         name: 'gitHub_username',
-        message: 'What is your GitHub usrname?'
+        message: 'What is your GitHub username?'
     },
     {
         type: 'input',
@@ -63,14 +62,18 @@ const questions = [{
 ];
 
 // function to write README file
-function writeToFile(fileName, data) {}
+function writeToFile(fileName, data) {
+    fs.writeFile(fileName, data, (err) =>
+        err ? console.log(err) : console.log('Success!')
+    );
+}
 
 // function to initialize program
 function init() {
     inquirer.prompt(questions)
         .then((answers) => {
             console.log(answers);
-            writeToFile("README.md", generateMarkdown(answers));
+            writeToFile("./generated_readme/README.md", generateMarkdown(answers));
         });
 }
 
