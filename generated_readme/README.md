@@ -1,11 +1,11 @@
 
   ![license](https://img.shields.io/badge/license-MIT-red)
 
-  # <span style="text-transform: capitalize;">My To Do List</span>
+  # <span style="text-transform: capitalize;">DoIt</span>
 
   ## Description
 
-My To Do List is a simple web application that allows users to track their daily tasks.
+DoIt is a to-do list web app
 <p>&nbsp;</p>
 
 ## Table of Contents
@@ -20,12 +20,12 @@ My To Do List is a simple web application that allows users to track their daily
 
 ## Installation
 
-To install the project, simply clone the repository, open the project in the VSCode and run “npm install” in the integrated terminal.
+Run "npm install" in the terminal
 <p>&nbsp;</p>
 
 ## Usage
 
-To use the application, run “npm start” in the terminal, open the web browser and navigate to http://localhost:3000
+Run "npm start" in the terminal
 <p>&nbsp;</p>
 
 ## License
@@ -35,12 +35,12 @@ This project is licensed under the MIT License
 
 ## Contributing
 
-To contribute to this project, simply fork the repository and submit a pull request with your changes.
+Simply fork the repository and submits a pull request with your changes
 <p>&nbsp;</p>
 
 ## Tests
 
-To run tests, run “npm test” in the terminal,
+Run "npm test" in the terminal
 <p>&nbsp;</p>
 
 
@@ -50,5 +50,5 @@ To run tests, run “npm test” in the terminal,
 
 If you have any questions about the project, please feel free to contact me by the following email:
 
-[adrianwg04@gmail.com](mailto:adrianwg04@gmail.com)  
+[test@gmail.com](mailto:test@gmail.com)  
 

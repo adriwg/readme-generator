@@ -22,6 +22,8 @@ To utilize the application effectively, adhere to the following instructions:
 - Upon answering all the questions, a "<b>Success!</b>" message will be displayed.
 - A README.md file will be generated and saved in the "<b>generated_readme</b>" directory.
 
+[Demonstration of how to use the app](https://drive.google.com/file/d/1X-crQ5JSo45F88b1wpBXm1uGPTAfyDdh/view?usp=share_link)
+
 ## Credits
 
 N/A
