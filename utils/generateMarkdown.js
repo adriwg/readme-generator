@@ -15,7 +15,7 @@ ${data.description}
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [How to Contribute](#how-to-contribute)
+- [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
 <p>&nbsp;</p>
@@ -35,7 +35,7 @@ ${data.usage}
 This project is licensed under the ${data.license} License
 <p>&nbsp;</p>
 
-## How to Contribute
+## Contributing
 
 ${data.contribute}
 <p>&nbsp;</p>
